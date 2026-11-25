@@ -1,0 +1,10 @@
+COMO GERAR O APK (uma vez só, uns 10 minutos)
+
+1. Instale o Android Studio (gratuito): https://developer.android.com/studio
+2. Abra o Android Studio > Open > escolha esta pasta (DiveManagerApp).
+   Aguarde a sincronização terminar (ele baixa o que precisa).
+3. Menu Build > Build Bundle(s) / APK(s) > Build APK(s).
+4. Quando terminar, clique em "locate". O arquivo é app-debug.apk.
+5. Mande o arquivo para o celular, abra e permita "instalar de fontes desconhecidas".
+
+O app abre https://divestation.com.br em tela cheia, com login, anexos e botão voltar.
